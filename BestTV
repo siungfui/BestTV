@@ -119,3 +119,5 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 #EXTINF:-1 group-title="Entertainment",民視旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 group-title="Entertainment",三立台湾
+http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
