@@ -1,39 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="China",CCTV1 綜合
+#EXTINF:-1 group-title="China",CCTV 1 綜合
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 group-title="China",CCTV2 財經
+#EXTINF:-1 group-title="China",CCTV 2 財經
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="China",CCTV3 綜藝
+#EXTINF:-1 group-title="China",CCTV 3 綜藝
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="China",CCTV4 中文國際
+#EXTINF:-1 group-title="China",CCTV 4 中文國際
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 group-title="China",CCTV5 體育
+#EXTINF:-1 group-title="China",CCTV 5 體育
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="China",CCTV5＋ 體育賽事
+#EXTINF:-1 group-title="China",CCTV 5＋ 體育賽事
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 group-title="China",CCTV6 電影
+#EXTINF:-1 group-title="China",CCTV 6 電影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 group-title="China",CCTV7 國防軍事
+#EXTINF:-1 group-title="China",CCTV 7 國防軍事
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1 group-title="China",CCTV8 連續劇
+#EXTINF:-1 group-title="China",CCTV 8 連續劇
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="China",CCTV9 記錄
+#EXTINF:-1 group-title="China",CCTV 9 記錄
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="China",CCTV10 科教
+#EXTINF:-1 group-title="China",CCTV 10 科教
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 group-title="China",CCTV11 戲曲
+#EXTINF:-1 group-title="China",CCTV 11 戲曲
 http://113.64.147.107:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="China",CCTV12 社會與法
+#EXTINF:-1 group-title="China",CCTV 12 社會與法
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-#EXTINF:-1 group-title="China",CCTV13 新聞
+#EXTINF:-1 group-title="China",CCTV 13 新聞
 http://newsbsh5ca.v.live.baishancdnx.cn:80/live/newscctv13_2/index.m3u8
-
-#EXTINF:-1 group-title="China",CCTV14 少兒
+#EXTINF:-1 group-title="China",CCTV 14 少兒
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1 group-title="China",CCTV15 音樂
+#EXTINF:-1 group-title="China",CCTV 15 音樂
 http://113.64.147.107:808/hls/15/index.m3u8
-#EXTINF:-1 group-title="China",CCTV17 農業農村
+#EXTINF:-1 group-title="China",CCTV 17 農業農村
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 group-title="China",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -101,8 +100,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:-1 group-title="Indonesia",Kompas TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF:-1 group-title="Indonesia",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia",Trans 7
@@ -118,5 +115,3 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 #EXTINF:-1 group-title="Entertainment",民視旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-#EXTINF:-1 group-title="Entertainment",三立台湾
-http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
