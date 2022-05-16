@@ -109,9 +109,149 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:-1 group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Entertainment",亞洲旅遊台
+#EXTINF:-1 group-title="Taiwan",亞洲旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 #EXTINF:-1 group-title="Entertainment",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 #EXTINF:-1 group-title="Entertainment",民視旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 group-title="Taiwan",三立新闻台
+http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="Taiwan",三立都会台
+http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="Taiwan",三立台湾台
+http://60.249.146.250:8534/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="Taiwan",三立台湾台
+http://59.125.101.187:18731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="Taiwan",八大综合台
+http://60.249.146.250:8520/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="Taiwan",八大第一台
+http://60.249.146.250:8519/http/60.251.39.91:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="Taiwan",八大戏剧台
+http://60.249.146.250:8588/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="Taiwan",东森幼幼台
+http://60.249.146.250:8515/http/60.251.39.91:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="Taiwan",东森洋片台
+http://120.84.96.25:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="Taiwan",东森电影台
+http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="Taiwan",东森新闻台
+http://60.249.146.250:8594/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="Taiwan",东森财经台
+http://60.249.146.250:8546/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 group-title="Taiwan",东森综合台
+http://60.249.146.250:8581/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="Taiwan",东森戏剧台
+http://60.249.146.250:8587/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="Taiwan",东森超视台
+http://60.249.146.250:8582/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="Taiwan",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="Taiwan",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="Taiwan",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="Taiwan",StarWorld
+http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 group-title="Taiwan",华视新闻资讯
+http://60.249.146.250:8592/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1 group-title="Taiwan",卫视中文台
+http://60.249.146.250:8579/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 group-title="Taiwan",卫视电影台
+http://60.249.146.250:8553/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="Taiwan",NHK国际台
+http://60.249.146.250:8552/http/60.251.39.91:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 group-title="Taiwan",FOX电影台
+http://60.249.146.250:8560/http/60.251.39.91:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1 group-title="Taiwan",国兴卫视
+http://60.249.146.250:8545/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1 group-title="Taiwan",正德佛教
+http://60.249.146.250:8511/http/60.251.39.91:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 group-title="Taiwan",TVBS欢乐
+http://60.249.146.250:8589/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 group-title="Taiwan",壹电视新闻
+http://60.249.146.250:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="Taiwan",中天综合台
+http://60.249.146.250:8583/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="Taiwan",中天娱乐台
+http://60.249.146.250:8584/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="Taiwan",年代新闻台
+http://60.249.146.250:8593/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来体育台
+http://60.249.146.250:8563/http/60.251.39.91:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="Taiwan",CNN新闻台
+http://60.249.146.250:8549/http/60.251.39.91:8081/hls/68/810/ch29.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来育乐台
+http://60.249.146.250:8562/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="Taiwan",东风卫视台
+http://60.249.146.250:8585/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来综合台
+http://60.249.146.250:8518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来戏剧台
+http://60.249.146.250:8590/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来日本台
+http://60.249.146.250:8591/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来电影台
+http://60.249.146.250:8555/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="Taiwan",人间卫视台
+http://60.249.146.250:8506/http/60.251.39.91:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="Taiwan",动物星球台
+http://60.249.146.250:8512/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="Taiwan",旅游生活台
+http://60.249.146.250:8511/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="Taiwan",索尼动画台
+http://60.249.146.250:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1 group-title="Taiwan",迪士尼频道
+http://60.249.146.250:8514/http/60.251.39.91:8081/hls/70/812/ch40.m3u8
+#EXTINF:-1 group-title="Taiwan",HBO亚洲台
+http://60.249.146.250:8580/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="Taiwan",HBO电影台
+http://60.249.146.250:8559/http/60.251.39.91:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 group-title="Taiwan",AXN亚洲台
+http://60.249.146.250:8558/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="Taiwan",探索发现台
+http://60.249.146.250:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="Taiwan",年代MUCH
+http://60.249.146.250:8586/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="Taiwan",台视无线台
+http://60.249.146.250:8548/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="Taiwan",中视无线台
+http://60.249.146.250:8502/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="Taiwan",华视无线台
+http://60.249.146.250:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="Taiwan",民视无线台
+http://60.249.146.250:8504/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="Taiwan",公视无线台
+http://60.249.146.250:8505/http/60.251.39.91:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="Taiwan",民视新闻台
+http://60.249.146.250:8596/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 group-title="Taiwan",大爱电视台
+http://60.249.146.250:8507/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="Taiwan",好消息综合
+http://60.249.146.250:8508/http/60.251.39.91:8081/hls/74/816/ch53.m3u8
+#EXTINF:-1 group-title="Taiwan",好莱坞电影
+http://60.249.146.250:8521/http/60.251.39.91:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 group-title="Taiwan",亚洲旅游台
+http://60.249.146.250:8513/http/60.251.39.91:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 group-title="Taiwan",寰宇新闻台
+http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="Taiwan",中天新闻台
+http://60.249.146.250:8595/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="Taiwan",优视综合台
+http://60.249.146.250:8523/http/60.251.39.91:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="Taiwan",龙华戏剧台
+http://60.249.146.250:8572/http/60.251.39.91:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 group-title="Taiwan",龙华日韩台
+http://60.249.146.250:8535/http/60.251.39.91:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1 group-title="Taiwan",龙华偶像台
+http://60.249.146.250:8536/http/60.251.39.91:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="Taiwan",龙华卡通台
+http://60.249.146.250:8517/http/60.251.39.91:8066/hls/210/10013/cstv13.m3u8
+#EXTINF:-1 group-title="Taiwan",龙华电影台
+ttp://60.249.146.250:8522/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 group-title="Taiwan",博斯运动台
+http://60.249.146.250:8564/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
+#EXTINF:-1 group-title="Taiwan",ELEVEN1台
+http://60.249.146.250:8566/http/60.251.39.91:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="Taiwan",ELEVEN2台
+http://60.249.146.250:8567/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
