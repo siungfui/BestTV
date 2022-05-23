@@ -38,8 +38,8 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="China",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="China", Testing
-http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226224/index.m3u8
+#EXTINF:-1 group-title="China", Testing02
+https://list.iptvcat.com/my_list/s/c6956f373a79bd5d9b0dd94ac6ed2d10.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
