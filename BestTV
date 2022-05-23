@@ -111,9 +111,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 #EXTINF:-1 group-title="Taiwan",亞洲旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-#EXTINF:-1 group-title="Entertainment",中天美食旅遊
+#EXTINF:-1 group-title="Taiwan",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-#EXTINF:-1 group-title="Entertainment",民視旅遊台
+#EXTINF:-1 group-title="Taiwan",民視旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
 #EXTINF:-1 group-title="Taiwan",三立新闻台
 http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
