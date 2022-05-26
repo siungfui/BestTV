@@ -113,7 +113,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 #EXTINF:-1 group-title="Taiwan",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-#EXTINF:-1 group-title="Taiwan",民視旅遊台
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="[CN] CCTV-1 综合 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CHINA(中国大陆)",[CN] CCTV-1 综合 HD
 http://iptv12k.com:35461/test167/12345/1333
@@ -268,8 +267,6 @@ http://iptv12k.com:35461/test167/12345/685
 http://iptv12k.com:35461/test167/12345/684
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://logowik.com/content/uploads/images/comedy-central4249.jpg" group-title="Malaysia(Pelayan akan dimulakan semula sekali sehari, kira-kira 15 minit.)",Comedy Central
 http://iptv12k.com:35461/test167/12345/683
-#EXTINF:-1 tvg-id="" tvg-name="ELTA綜合" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="Taiwan(台湾)",ELTA綜合
-http://iptv12k.com:35461/test167/12345/679
 #EXTINF:-1 tvg-id="" tvg-name="THANGATHIRAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/ABO_Thangathirai.png" group-title="Malaysia(Pelayan akan dimulakan semula sekali sehari, kira-kira 15 minit.)",THANGATHIRAI
 http://iptv12k.com:35461/test167/12345/678
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO Vaanavil HD" tvg-logo="https://i.ytimg.com/vi/FKxbjhYhxrQ/maxresdefault.jpg" group-title="Malaysia(Pelayan akan dimulakan semula sekali sehari, kira-kira 15 minit.)",ASTRO Vaanavil HD
@@ -322,14 +319,6 @@ http://iptv12k.com:35461/test167/12345/654
 http://iptv12k.com:35461/test167/12345/653
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Malaysia(Pelayan akan dimulakan semula sekali sehari, kira-kira 15 minit.)",WWE Network
 http://iptv12k.com:35461/test167/12345/652
-#EXTINF:-1 tvg-id="GolfChannel.my" tvg-name="Golf Channel HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="SPORTS",Golf Channel HD
-http://iptv12k.com:35461/test167/12345/651
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/733/259/png-transparent-fox-sports-1-fox-sports-2-fox-sports-networks-fox-material-television-blue-animals.png" group-title="SPORTS",Fox Sports 1
-http://iptv12k.com:35461/test167/12345/650
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS",Fox Sports 2
-http://iptv12k.com:35461/test167/12345/649
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS",Fox Sports 3
-http://iptv12k.com:35461/test167/12345/648
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE9Z2aQb7cvpG6Hci_kE4edlIiO9JYun6vpg&amp;usqp=CAU" group-title="Malaysia(Pelayan akan dimulakan semula sekali sehari, kira-kira 15 minit.)",Eurosport HD
 http://iptv12k.com:35461/test167/12345/647
 #EXTINF:-1 tvg-id="HGTV.my" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Malaysia(Pelayan akan dimulakan semula sekali sehari, kira-kira 15 minit.)",HGTV HD
