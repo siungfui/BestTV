@@ -2,8 +2,12 @@
 
 #EXTINF:-1 group-title="China",CCTV 1 綜合
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 1
+http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 #EXTINF:-1 group-title="China",CCTV 2 財經
 http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 2
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="China",CCTV 3 綜藝
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="China",CCTV 4 中文國際
@@ -28,6 +32,8 @@ http://113.64.147.107:808/hls/11/index.m3u8
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 group-title="China",CCTV 13 新聞
 http://newsbsh5ca.v.live.baishancdnx.cn:80/live/newscctv13_2/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 13
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 group-title="China",CCTV 14 少兒
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="China",CCTV 15 音樂
@@ -114,43 +120,3 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 #EXTINF:-1 group-title="Taiwan",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 
-#EXTINF:-1, CCTV13a
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2_hd.m3u8
-#EXTINF:-1 ,CCTV-13b
-http://stream4.jlntv.cn/cctv13/sd/live.m3u8
-#EXTINF:-1 ,CCTV13c
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV-13d
-http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
-#EXTINF:-1 ,CCTV-13e
-rtmp://58.200.131.2:1935/livetv/cctv13
-#EXTINF:-1, CCTV1
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
-#EXTINF:-1, CCTV2
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
-#EXTINF:-1, CCTV3
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2_hd.m3u8
-#EXTINF:-1, CCTV4
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1, CCTV5
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1, CCTV6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1, CCTV7
-http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1, CCTV8
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2_hd.m3u8
-#EXTINF:-1, CCTV9
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1, CCTV10
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2_hd.m3u8
-#EXTINF:-1, CCTV11
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv11_2_hd.m3u8
-#EXTINF:-1, CCTV12
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv12_2_hd.m3u8
-#EXTINF:-1, CCTV14
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2_hd.m3u8
-#EXTINF:-1, CCTV15
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2_hd.m3u8
-#EXTINF:-1, CCTV17
-http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
