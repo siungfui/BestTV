@@ -4,8 +4,6 @@
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20003
 #EXTINF:-1 group-title="China",CCTV 2 財經
 http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
-#EXTINF:-1 group-title="China",CCTV 2
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20004
 #EXTINF:-1 group-title="China",CCTV 3 綜藝
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20005
 #EXTINF:-1 group-title="China",CCTV 4 中文國際
@@ -30,18 +28,12 @@ http://113.64.147.107:808/hls/11/index.m3u8
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 group-title="China",CCTV 13 新聞
 http://newsbsh5ca.v.live.baishancdnx.cn:80/live/newscctv13_2/index.m3u8
-#EXTINF:-1 group-title="China",CCTV 13
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20016
 #EXTINF:-1 group-title="China",CCTV 14 少兒
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="China",CCTV 15 音樂
-http://113.64.147.107:808/hls/15/index.m3u8
-#EXTINF:-1 group-title="China",CCTV 15
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20018
 #EXTINF:-1 group-title="China",CCTV 17 農業農村
 http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
-#EXTINF:-1 group-title="China",CCTV 17
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20019
 #EXTINF:-1 group-title="China",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="China",CGTN Documentary
