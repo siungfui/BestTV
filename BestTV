@@ -1,39 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="China",CCTV 1 綜合
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20003
+http://live.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 2 財經
-http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+http://live.tvfix.org/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 3 綜藝
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20005
+http://live.tvfix.org/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 4 中文國際
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+http://live.tvfix.org/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 5 體育
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20007
+http://live.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 5＋ 體育賽事
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20008
+http://live.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="China",CCTV 6 電影
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20009
+http://live.tvfix.org/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 7 國防軍事
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+http://live.tvfix.org/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 8 連續劇
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20011
+http://live.tvfix.org/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 9 記錄
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20012
+http://live.tvfix.org/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 10 科教
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20013
+http://live.tvfix.org/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 11 戲曲
-http://113.64.147.107:808/hls/11/index.m3u8
+http://live.tvfix.org/hls/cctv11hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 12 社會與法
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+http://live.tvfix.org/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 13 新聞
 http://newsbsh5ca.v.live.baishancdnx.cn:80/live/newscctv13_2/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 13
+http://live.tvfix.org/hls/cctv13hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 14 少兒
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+http://live.tvfix.org/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 15 音樂
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20018
+http://live.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 group-title="China",CCTV 16 奧林匹克
+http://live.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 17 農業農村
-http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+http://live.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 group-title="China",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="China",CGTN Documentary
