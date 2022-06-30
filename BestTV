@@ -1,7 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="China CCTV",CCTV 13 新聞
+#EXTINF:-1 group-title="CCTV",CCTV 13 新聞
 http://220.196.180.59:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV 13 新聞
+http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="CCTV",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 group-title="China 39",
+1綜合,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 group-title="China 39",2財經
+http://39.134.65.141/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 group-title="China 39",3綜藝
+http://39.134.65.141/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 group-title="China 39",4中文國際
+http://39.134.65.141/PLTV/88888888/224/3221225797/1.m3u8
+#EXTINF:-1 group-title="China 39",5體育
+http://39.134.65.141/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="China 39",5+體育賽事
+http://39.134.65.141/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 group-title="China 39",6電影
+http://39.134.65.141/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 group-title="China 39",7國防軍事
+http://39.134.65.141/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="China 39",8電視劇
+http://39.134.65.141/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 group-title="China 39",9紀錄
+http://39.134.65.141/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 group-title="China 39",10科教
+http://39.134.65.141/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 group-title="China 39",11戲曲
+http://39.134.65.141/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 group-title="China 39",12社會與法
+http://39.134.65.141/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 group-title="China 39",13新聞
+http://39.134.65.141/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 group-title="China 39",14少兒
+http://39.134.65.141/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="China 39",15音樂
+http://39.134.65.141/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 group-title="China 39",16奧林匹克
+http://39.134.65.141/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="China 39",17農業農村
+http://39.134.65.141/PLTV/88888888/224/3221225708/1.m3u8
 
 #EXTINF:-1 group-title="China",CCTV 1 綜合
 http://live.tvfix.org/hls/cctv1hd.m3u8
@@ -39,10 +82,6 @@ http://live.tvfix.org/hls/cctv15hd.m3u8
 http://live.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="China",CCTV 17 農業農村
 http://live.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 group-title="China",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="China",CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -118,67 +157,26 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 #EXTINF:-1 group-title="Taiwan",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-
-#EXTINF:-1 group-title="Lime",Bloomberg TV
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20048
-#EXTINF:-1 group-title="Lime",Discovery Asia
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20056
-#EXTINF:-1 group-title="Lime",Discovery Science
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21026
-#EXTINF:-1 group-title="Lime",History
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20074
-#EXTINF:-1 group-title="Lime",Sky News
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20085
-#EXTINF:-1 group-title="Lime",凤凰卫视
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20107
-#EXTINF:-1 group-title="Lime",全佳
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20408
-#EXTINF:-1 group-title="Lime",AEC
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621
-#EXTINF:-1 group-title="Lime",Animal Planet
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21003
-#EXTINF:-1 group-title="Lime",Xiao Tai Yang
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20401
-#EXTINF:-1 group-title="Lime",Hua Hee Tai
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20411
-#EXTINF:-1 group-title="Lime",Super Sport
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
-#EXTINF:-1 group-title="Lime",Super Sport 2
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20415
-#EXTINF:-1 group-title="Lime",Super Sport 3
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20416
-#EXTINF:-1 group-title="Lime",Super Sport 4
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20417
-#EXTINF:-1 group-title="Lime",Super Sport 5
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
-#EXTINF:-1 group-title="Lime",Lifetime
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20527
-#EXTINF:-1 group-title="Lime",Nat Geo Wild
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20764
-#EXTINF:-1 group-title="Lime",BBC Lifestyle
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21009
-#EXTINF:-1 group-title="Lime",Dmax
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21033
-#EXTINF:-1 group-title="Lime",Food Network
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21037
-#EXTINF:-1 group-title="Lime",HGTV
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21039
-#EXTINF:-1 group-title="Lime",Channel 5
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20149
-#EXTINF:-1 group-title="Lime",Channel 8
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20150
-#EXTINF:-1 group-title="Lime",TLC
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21057
-#EXTINF:-1 group-title="Lime",ABC Australia
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21071
-#EXTINF:-1 group-title="Lime",BBC World News
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21072
-#EXTINF:-1 group-title="Lime",MTV Asia
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21080
-#EXTINF:-1 group-title="Lime",National Geographic
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21089
-#EXTINF:-1 group-title="Lime",EYETV旅游
+#EXTINF:-1 group-title="Taiwan",EYETV旅游
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20256
+#EXTINF:-1 group-title="Taiwan",鏡電視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+#EXTINF:-1 group-title="Taiwan",東森新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 group-title="Taiwan",華視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+#EXTINF:-1 group-title="Taiwan",民視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 group-title="Taiwan",三立財經新聞iNEWS
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+#EXTINF:-1 group-title="Taiwan",TVBS新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+#EXTINF:-1 group-title="Taiwan",東森財經新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+#EXTINF:-1 group-title="Taiwan",中視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 group-title="Taiwan",中天新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 
 #EXTINF:-1 group-title="Documentary",BBC EARTH
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
