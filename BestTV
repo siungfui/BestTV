@@ -41,6 +41,11 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="China",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+#EXTINF:-1 group-title="CCTV News",CCTV 4
+http://61.219.170.95:8532/.m3u8
+#EXTINF:-1 group-title="CCTV News",CCTV 4
+http://61.219.170.95:18537/.m3u8
+
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="News",凤凰资讯
