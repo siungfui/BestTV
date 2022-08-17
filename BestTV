@@ -41,14 +41,42 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="China",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 group-title="CCTV News",CCTV 1
-http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8
-#EXTINF:-1 group-title="CCTV News",CCTV 1
-http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="CCTV News",CCTV 4
-http://61.219.170.95:8532/.m3u8
-#EXTINF:-1 group-title="CCTV News",CCTV 13
-http://61.219.170.95:18537/.m3u8
+#EXTINF:-1 group-title="China 39",1 綜合
+http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 group-title="China 39",2 財經
+http://39.134.65.181/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 group-title="China 39",3 綜藝
+http://39.134.65.181/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 group-title="China 39",4 中文國際
+http://39.134.65.181/PLTV/88888888/224/3221225797/1.m3u8
+#EXTINF:-1 group-title="China 39",5 體育
+http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="China 39",5+ 體育賽事
+http://39.134.65.181/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 group-title="China 39",6 電影
+http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 group-title="China 39",7 國防軍事
+http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="China 39",8 電視劇
+http://39.134.65.181/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 group-title="China 39",9 紀錄
+http://39.134.65.181/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 group-title="China 39",10 科教
+http://39.134.65.181/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 group-title="China 39",11 戲曲
+http://39.134.65.181/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 group-title="China 39",12 社會與法
+http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 group-title="China 39",13 新聞
+http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 group-title="China 39",14 少兒
+http://39.134.65.181/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="China 39",15 音樂
+http://39.134.65.181/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 group-title="China 39",16 奧林匹克
+http://39.134.65.181/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="China 39",17 農業農村
+http://39.134.65.181/PLTV/88888888/224/3221225708/1.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
