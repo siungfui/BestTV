@@ -78,11 +78,6 @@ http://39.134.65.181/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 group-title="China 39",17 農業農村
 http://39.134.65.181/PLTV/88888888/224/3221225708/1.m3u8
 
-#EXTINF:-1 group-title="Hong Kong",TVB翡翠台
-http://live.tvfix.org/play/jade
-#EXTINF:-1 group-title="Hong Kong",TVB新聞台
-http://live.tvfix.org/play/inews
-
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="News",凤凰资讯
@@ -178,9 +173,9 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 #EXTINF:-1 group-title="Taiwan",中天新聞台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 #EXTINF:-1 group-title="Taiwan",國家地理頻道
-http://live.tvfix.org/play/natlgeo
+http://220.134.196.147:9236/http/116.50.42.18:8081/hls/61/803/ch01.m3u8
 #EXTINF:-1 group-title="Taiwan",EYE TV旅遊台
-http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+https://epg.pm/stream/1fd13ffdf5e1ae9fdd35455552793aac194f73e6907e6e8eb9a4b87ac98990c3.m3u8
 
 #EXTINF:-1 group-title="Documentary",BBC EARTH
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
