@@ -179,6 +179,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 #EXTINF:-1 group-title="Taiwan",國家地理頻道
 http://live.tvfix.org/play/natlgeo
+#EXTINF:-1 group-title="Taiwan",EYE TV旅遊台
+http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 
 #EXTINF:-1 group-title="Documentary",BBC EARTH
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
