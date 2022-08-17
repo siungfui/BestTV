@@ -78,6 +78,11 @@ http://39.134.65.181/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 group-title="China 39",17 農業農村
 http://39.134.65.181/PLTV/88888888/224/3221225708/1.m3u8
 
+#EXTINF:-1 group-title="Hong Kong",TVB翡翠台
+http://live.tvfix.org/play/jade
+#EXTINF:-1 group-title="Hong Kong",TVB新聞台
+http://live.tvfix.org/play/inews
+
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="News",凤凰资讯
@@ -172,6 +177,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 #EXTINF:-1 group-title="Taiwan",中天新聞台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+#EXTINF:-1 group-title="Taiwan",國家地理頻道
+http://live.tvfix.org/play/natlgeo
 
 #EXTINF:-1 group-title="Documentary",BBC EARTH
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
