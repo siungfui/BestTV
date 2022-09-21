@@ -41,13 +41,21 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="China",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 group-title="China 39",1 綜合
+#EXTINF:-1 group-title="China CCTV",1 綜合
 http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="China 39",2 財經
+#EXTINF:-1 group-title="China CCTV",1 綜合
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="China CCTV",2 財經
 http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
-#EXTINF:-1 group-title="China 39",13 新聞
+#EXTINF:-1 group-title="China CCTV",13 新聞
 http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="China 39",17 農業農村
+#EXTINF:-1 group-title="China CCTV",13 新聞
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 group-title="China CCTV",13 新聞
+http://87881.cn/p/video.html?id=https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="China CCTV",13 新聞
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="China CCTV",17 農業農村
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
