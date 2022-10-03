@@ -1,83 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testing",CCTV2
-http://60.10.167.88:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://111.20.33.70/PLTV/88888893/224/3221226224/index.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://111.59.189.40:8445/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://218.204.51.252:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://183.63.15.42:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://222.240.82.92:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="Testing",CCTV2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-
-#EXTINF:-1 group-title="China",CCTV 1 綜合
-http://live.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 2 財經
-http://live.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 3 綜藝
-http://live.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 4 中文國際
-http://live.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 5 體育
-http://live.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 5＋ 體育賽事
-http://live.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="China",CCTV 6 電影
-http://live.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 7 國防軍事
-http://live.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 8 連續劇
-http://live.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 9 記錄
-http://live.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 10 科教
-http://live.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 11 戲曲
-http://live.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 12 社會與法
-http://live.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 13 新聞
-http://live.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 14 少兒
-http://live.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 15 音樂
-http://live.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 16 奧林匹克
-http://live.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 group-title="China",CCTV 17 農業農村
-http://live.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 group-title="China",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="China",CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-#EXTINF:-1 group-title="China CCTV",1 綜合
-http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="China CCTV",1 綜合
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 group-title="China CCTV",2 財經
 http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 group-title="China CCTV",13 新聞
-http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="China CCTV",13 新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 group-title="China CCTV",13 新聞
-http://87881.cn/p/video.html?id=https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
-#EXTINF:-1 group-title="China CCTV",13 新聞
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
-#EXTINF:-1 group-title="China CCTV",17 農業農村
-http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -148,55 +76,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Taiwan",亞洲旅遊台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-#EXTINF:-1 group-title="Taiwan",中天美食旅遊
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-#EXTINF:-1 group-title="Taiwan",EYETV旅游
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20256
-#EXTINF:-1 group-title="Taiwan",鏡電視新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-#EXTINF:-1 group-title="Taiwan",東森新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-#EXTINF:-1 group-title="Taiwan",華視新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-#EXTINF:-1 group-title="Taiwan",民視新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-#EXTINF:-1 group-title="Taiwan",三立財經新聞iNEWS
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-#EXTINF:-1 group-title="Taiwan",TVBS新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-#EXTINF:-1 group-title="Taiwan",東森財經新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-#EXTINF:-1 group-title="Taiwan",中視新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-#EXTINF:-1 group-title="Taiwan",中天新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-#EXTINF:-1 group-title="Taiwan",國家地理頻道
-http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 group-title="Taiwan",EYE TV旅遊台
-http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-#EXTINF:-1 group-title="Taiwan",動物星球
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-#EXTINF:-1 group-title="Taiwan",國家地理野生頻道
-http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1 group-title="Taiwan",探索頻道
-http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="Taiwan",探索頻道
-http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-#EXTINF:-1 group-title="Taiwan",東森幼幼
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-#EXTINF:-1 group-title="Taiwan",爱尔达生活旅游
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-#EXTINF:-1 group-title="Taiwan",MOMO亲子
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-#EXTINF:-1 group-title="Taiwan",中台灣生活網
-http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Taiwan",幸福空间居家台
-https://git.io/JgYYF
-#EXTINF:-1 group-title="Taiwan",Momo綜合台
-http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
 
 #EXTINF:-1 group-title="Documentary",BBC EARTH
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
