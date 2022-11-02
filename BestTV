@@ -6,14 +6,26 @@ https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 https://live.olelive.com:4443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视",2 財經
 https://live.olelive.com:4443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="央视",3 综艺
+https://live.olelive.com:4443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视",4 中文国际（亚）
 https://live.olelive.com:4443/live/CCTV4HD/hls.m3u8
+#EXTINF:-1 group-title="央视",4 中文国际（欧）
+https://live.olelive.com:4443/live/CCTV4EUROPEHD/hls.m3u8
+#EXTINF:-1 group-title="央视",4 中文国际（美）
+https://live.olelive.com:4443/live/CCTV4AMERICAHD/hls.m3u8
 #EXTINF:-1 group-title="央视",5 体育
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视",5 体育赛事
 https://live.olelive.com:4443/live/CCTV5plusHD/hls.m3u8
+#EXTINF:-1 group-title="央视",6 电影
+https://live.olelive.com:4443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="央视",7 国防军事
+https://live.olelive.com:4443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 group-title="央视",9 纪录
 https://live.olelive.com:4443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="央视",10 科教
+https://live.olelive.com:4443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group-title="央视",13 新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="央视",13 新聞
