@@ -2,77 +2,10 @@
 
 #EXTINF:-1 group-title="央视",1 綜合
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
-#EXTINF:-1 group-title="央视",1 綜合
-https://live.olelive.com:4443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="央视",2 財經
-https://live.olelive.com:4443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="央视",3 综艺
-https://live.olelive.com:4443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="央视",4 中文国际（亚）
-https://live.olelive.com:4443/live/CCTV4HD/hls.m3u8
-#EXTINF:-1 group-title="央视",4K
-https://live.olelive.com:4443/live/CCTV4KHD/hls.m3u8
-#EXTINF:-1 group-title="央视",5 体育
-https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="央视",5 体育赛事
-https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="央视",6 电影
-https://live.olelive.com:4443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 group-title="央视",7 国防军事
-https://live.olelive.com:4443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 group-title="央视",9 纪录
-https://live.olelive.com:4443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="央视",10 科教
-https://live.olelive.com:4443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group-title="央视",13 新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="央视",13 新聞
 https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="央视",13 新聞
-https://live.olelive.com:4443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视",15 音乐
-https://live.olelive.com:4443/live/CCTV15HD/hls.m3u8
-#EXTINF:-1 group-title="央视",16 奥林匹克
-https://live.olelive.com:4443/live/CCTV16HD/hls.m3u8
-#EXTINF:-1 group-title="央视",17 农业农村
-https://live.olelive.com:4443/live/CCTV17HD/hls.m3u8
-
-#EXTINF:-1 group-title="CCTV",1綜合
-http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="CCTV",2財經
-http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
-#EXTINF:-1 group-title="CCTV",3綜藝
-http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
-#EXTINF:-1 group-title="CCTV",4中文國際
-http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 group-title="CCTV",5體育
-http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 group-title="CCTV",5+體育賽事
-http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 group-title="CCTV",6電影
-http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 group-title="CCTV",7國防軍事
-http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
-#EXTINF:-1 group-title="CCTV",8電視劇
-http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 group-title="CCTV",9紀錄
-http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1 group-title="CCTV",10科教
-http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 group-title="CCTV",11戲曲
-http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 group-title="CCTV",12社會與法
-http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 group-title="CCTV",13新聞
-http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="CCTV",14少兒
-http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 group-title="CCTV",15音樂
-http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 group-title="CCTV",16奧林匹克
-http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="CCTV",17農業農村
-http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
