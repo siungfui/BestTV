@@ -28,7 +28,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 #EXTINF:-1 group-title="News",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="News",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://epg.pw/stream/8a1f8e69639649a9b476759d350333619660e07c0b392aecf67cf0f4e013499d.ctv
 #EXTINF:-1 group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News",Euronews
@@ -73,3 +73,7 @@ http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255
 http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 #EXTINF:-1 group-title="TW",探索亚洲
 http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 group-title="TW",BBC Earth
+https://epg.pw/stream/bc076776e776f87fc548b69936d5b41b4a97a5fbf6ced82c3655666ef7023b37.ctv
+#EXTINF:-1 group-title="TW",BBC Lifestyle
+https://epg.pw/stream/f40ac84ec6dd95dfbce6685c162ffd7871c243ff4ede16d655687c45555e19d8.ctv
