@@ -11,6 +11,49 @@ https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
 http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
+#EXTINF:-1 group-title="CCTV 8M",CCTV1
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV2
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV3
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV4
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV5
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV5+
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV6
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV7
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV8
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV9
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV10
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV11
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV12
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV13
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV14
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV15
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV16
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV17
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV4K
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",CCTV16-4K
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV 8M",欢笑剧场4k
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="News",凤凰资讯
@@ -77,3 +120,5 @@ http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337
 https://epg.pw/stream/bc076776e776f87fc548b69936d5b41b4a97a5fbf6ced82c3655666ef7023b37.ctv
 #EXTINF:-1 group-title="TW",BBC Lifestyle
 https://epg.pw/stream/f40ac84ec6dd95dfbce6685c162ffd7871c243ff4ede16d655687c45555e19d8.ctv
+#EXTINF:-1 group-title="TW",HGTV
+https://epg.pw/stream/99f7b53b90218b045a0bcf5d36ca6207df6f1b84766876d4003b046062797cc6.ctv
