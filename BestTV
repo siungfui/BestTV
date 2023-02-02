@@ -2,22 +2,21 @@
 
 #EXTINF:-1 group-title="央视",CCTV1 綜合
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="央视",CCTV1 綜合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="央视",CCTV2 财经
 http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视",CCTV2 财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV13 新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="央视",CCTV13 新聞
 https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
-http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-
-#EXTINF:-1 group-title="CCTV",CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV13
+#EXTINF:-1 group-title="央视",CCTV13 新聞
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV17
+#EXTINF:-1 group-title="央视",CCTV17 农业世界
+http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视",CCTV17 农业世界
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
