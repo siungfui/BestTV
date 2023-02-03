@@ -54,13 +54,15 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="News",BBC World News
-http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/184402
+#EXTINF:-1 group-title="News",BBC NEWS
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53840
 #EXTINF:-1 group-title="News",BloombergTV
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="News",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="News",CNN
-https://epg.pw/stream/8a1f8e69639649a9b476759d350333619660e07c0b392aecf67cf0f4e013499d.ctv
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53416
 #EXTINF:-1 group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News",Euronews
@@ -75,6 +77,33 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 http://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Knowledge",ANIMAL PLANET
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53429
+#EXTINF:-1 group-title="Knowledge",COOKING CHANNEL
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53410
+#EXTINF:-1 group-title="Knowledge",DISCOVERY CHANNEL
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53435
+#EXTINF:-1 group-title="Knowledge",FOOD NETWORK
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53393
+#EXTINF:-1 group-title="Knowledge",HGTV
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53381
+#EXTINF:-1 group-title="Knowledge",LIFETIME
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53373
+#EXTINF:-1 group-title="Knowledge",NATIONAL GEOGRAPHIC CHANNEL
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/54897
+#EXTINF:-1 group-title="Knowledge",NATIONAL GEOGRAPHIC WILD
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53363
+#EXTINF:-1 group-title="Knowledge",OUTDOOR CHANNEL
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/54974
+#EXTINF:-1 group-title="Knowledge",TLC
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53316
+#EXTINF:-1 group-title="Knowledge",TRAVEL CHANNEL
+http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53309
+#EXTINF:-1 group-title="Knowledge",BBC Food
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/331427
+#EXTINF:-1 group-title="Knowledge",BBC Home & Garden
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/331428
 
 #EXTINF:-1 group-title="Indonesia",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
