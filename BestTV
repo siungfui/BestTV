@@ -1,47 +1,35 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="央视",CCTV1 綜合
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1 綜合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV1 綜合
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1 綜合
-http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2 财经
-http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV2 财经
-http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV9 紀錄
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV9 紀錄
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV9 紀錄
-http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10 科教
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV10 科教
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV10 科教
-http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视",CCTV13 新聞
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV13 新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="央视",CCTV13 新聞
 https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="央视",CCTV13 新聞
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV13 新聞
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="央视",CCTV13 新聞
-http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="央视",CCTV17 农业农村
-http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV17 农业农村
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV17 农业农村
-http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 group-title="News",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
