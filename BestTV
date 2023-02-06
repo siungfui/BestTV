@@ -78,33 +78,6 @@ http://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Knowledge",ANIMAL PLANET
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53429
-#EXTINF:-1 group-title="Knowledge",COOKING CHANNEL
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53410
-#EXTINF:-1 group-title="Knowledge",DISCOVERY CHANNEL
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53435
-#EXTINF:-1 group-title="Knowledge",FOOD NETWORK
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53393
-#EXTINF:-1 group-title="Knowledge",HGTV
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53381
-#EXTINF:-1 group-title="Knowledge",LIFETIME
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53373
-#EXTINF:-1 group-title="Knowledge",NATIONAL GEOGRAPHIC CHANNEL
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/54897
-#EXTINF:-1 group-title="Knowledge",NATIONAL GEOGRAPHIC WILD
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53363
-#EXTINF:-1 group-title="Knowledge",OUTDOOR CHANNEL
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/54974
-#EXTINF:-1 group-title="Knowledge",TLC
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53316
-#EXTINF:-1 group-title="Knowledge",TRAVEL CHANNEL
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53309
-#EXTINF:-1 group-title="Knowledge",BBC Food
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/331427
-#EXTINF:-1 group-title="Knowledge",BBC Home & Garden
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/331428
-
 #EXTINF:-1 group-title="Indonesia",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Indonesia",CNBC
@@ -119,24 +92,3 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Taiwan",亚洲旅游
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-#EXTINF:-1 group-title="Taiwan",亚洲旅游
-http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:-1 group-title="Taiwan",DMAX
-http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-#EXTINF:-1 group-title="Taiwan",EYETV旅游
-http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-#EXTINF:-1 group-title="Taiwan",EYETV旅游
-http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-#EXTINF:-1 group-title="Taiwan",EYETV旅游
-http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 group-title="Taiwan",探索亚洲
-http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#EXTINF:-1 group-title="Taiwan",BBC Earth
-https://epg.pw/stream/bc076776e776f87fc548b69936d5b41b4a97a5fbf6ced82c3655666ef7023b37.ctv
-#EXTINF:-1 group-title="Taiwan",BBC Lifestyle
-https://epg.pw/stream/f40ac84ec6dd95dfbce6685c162ffd7871c243ff4ede16d655687c45555e19d8.ctv
-#EXTINF:-1 group-title="Taiwan",HGTV
-https://epg.pw/stream/99f7b53b90218b045a0bcf5d36ca6207df6f1b84766876d4003b046062797cc6.ctv
