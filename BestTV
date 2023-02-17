@@ -11,6 +11,8 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV2 财经
 http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV9 紀錄
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv9_mud.m3u8
+#EXTINF:-1 group-title="央视",CCTV9 紀錄
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV9 紀錄
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
