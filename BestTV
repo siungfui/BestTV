@@ -209,6 +209,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 group-title="Indonesia",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="音乐",音乐石榴
 http://live.aptvapp.com/huya.php?id=17091681
@@ -345,5 +347,46 @@ http://sk.cri.cn/hyhq.m3u8
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1 group-title="广播",CRI NEWS Plus AM846
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="Indonesia",TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="MY & SG Radio",新-UFM1003
+http://20663.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1 group-title="MY & SG Radio",新-好FM963
+http://14923.live.streamtheworld.com/HAO_963AAC.aac
+#EXTINF:-1 group-title="MY & SG Radio",新-973FM
+http://www.vtuner.com/vtunerweb/mms/m3u48803.m3u
+#EXTINF:-1 group-title="MY & SG Radio",新-JiaFM883
+http://www.vtuner.com/vtunerweb/mms/m3u620.m3u
+#EXTINF:-1 group-title="MY & SG Radio",新-Kiss92FM
+http://20663.live.streamtheworld.com/KISS_92_SC
+#EXTINF:-1 group-title="MY & SG Radio",新-Money FM893
+http://www.vtuner.com/vtunerweb/mms/m3u90613.m3u
+#EXTINF:-1 group-title="MY & SG Radio",馬-988友聲有色
+http://starrfm.rastream.com/starrfm-988
+#EXTINF:-1 group-title="MY & SG Radio",馬-myfm
+http://astro1.rastream.com/myfm
+#EXTINF:-1 group-title="MY & SG Radio",馬-melody
+http://astro3.rastream.com/melody
+#EXTINF:-1 group-title="MY & SG Radio",馬-HITZ
+http://astro1.rastream.com/hitz
+#EXTINF:-1 group-title="MY & SG Radio",馬-LITE
+http://astro1.rastream.com/lite
+#EXTINF:-1 group-title="MY & SG Radio",馬-MIX
+http://astro2.rastream.com/mix
+#EXTINF:-1 group-title="MY & SG Radio",馬-SINAR
+http://astro2.rastream.com/sinar
+#EXTINF:-1 group-title="MY & SG Radio",馬-ERA
+http://astro2.rastream.com/era
+#EXTINF:-1 group-title="MY & SG Radio",馬-SURIAFM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+#EXTINF:-1 group-title="MY & SG Radio",馬-OPUS
+http://astro4.rastream.com/opus
+#EXTINF:-1 group-title="MY & SG Radio",馬-GOLD
+http://astro4.rastream.com/gold
+#EXTINF:-1 group-title="MY & SG Radio",馬-JAZZ
+http://astro4.rastream.com/jazz
+#EXTINF:-1 group-title="MY & SG Radio",馬-ROCK
+http://astro4.rastream.com/rock
+#EXTINF:-1 group-title="MY & SG Radio",馬-THR GEGAR
+http://astro3.rastream.com/gegar
+#EXTINF:-1 group-title="MY & SG Radio",馬-ARENA FM
+http://astro1.rastream.com/amp-arena
