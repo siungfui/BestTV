@@ -209,5 +209,141 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="音乐",音乐石榴
+http://live.aptvapp.com/huya.php?id=17091681
+#EXTINF:-1 group-title="音乐",治愈•放松
+http://live.aptvapp.com/huya.php?id=21241811
+#EXTINF:-1 group-title="音乐",新歌速递
+http://live.aptvapp.com/huya.php?id=19439762
+#EXTINF:-1 group-title="音乐",阅读•学习
+http://live.aptvapp.com/huya.php?id=21241813
+#EXTINF:-1 group-title="音乐",意大利V2
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="音乐",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="音乐",Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="音乐",M2 音乐
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="音乐",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="音乐",Vibee音乐
+http://de1se01.v2beat.live/chunks.m3u8
+#EXTINF:-1 group-title="音乐",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="音乐",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Spankin
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 group-title="广播",Big B Radio-韩语流行
+http://kpop.bigbradio.net/s
+#EXTINF:-1 group-title="广播",Big B Radio-日语流行
+http://jpop.bigbradio.net/s
+#EXTINF:-1 group-title="广播",Big B Radio-中文流行
+http://cpop.bigbradio.net/s
+#EXTINF:-1 group-title="广播",Big B Radio-洲流行
+http://apop.bigbradio.net/s
+#EXTINF:-1 group-title="广播",北京音乐广播
+http://live.xmcdn.com/live/95/64.m3u8
+#EXTINF:-1 group-title="广播",潮流音乐台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 group-title="广播",上海动感101
+http://ls.qingting.fm/live/274.m3u8
+#EXTINF:-1 group-title="广播",深圳飞扬音乐台
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 group-title="广播",电台广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 group-title="广播",电音电台
+http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+#EXTINF:-1 group-title="广播",动感音乐台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 group-title="广播",格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 group-title="广播",广东音乐广播
+http://ls.qingting.fm/live/1260.m3u8
+#EXTINF:-1 group-title="广播",华语金曲500首
+http://ls.qingting.fm/live/3412131.m3u8
+#EXTINF:-1 group-title="广播",怀集音乐台
+http://live.xmcdn.com:80/live/966/64.m3u8
+#EXTINF:-1 group-title="广播",老歌音乐台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 group-title="广播",民谣 蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 group-title="广播",民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 group-title="广播",清晨音乐台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1 group-title="广播",四川岷江音乐广播
+http://ls.qingting.fm/live/1110.m3u8
+#EXTINF:-1 group-title="广播",台北广播电台AM1134
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+#EXTINF:-1 group-title="广播",台北广播电台FM93.1
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1 group-title="广播",台北国际小区广播电台
+http://live.leanstream.co/ICRTFM-MP3
+#EXTINF:-1 group-title="广播",台湾Lounge Radio音乐电台
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1 group-title="广播",台中广播电台
+http://211.20.119.101:8081
+#EXTINF:-1 group-title="广播",天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 group-title="广播",天籁之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 group-title="广播",天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 group-title="广播",香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 group-title="广播",心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 group-title="广播",亚洲经典音乐台
+http://live.xmcdn.com:80/live/1005/64.m3u8
+#EXTINF:-1 group-title="广播",浙江动听
+http://ls.qingting.fm/live/4866.m3u8
+#EXTINF:-1 group-title="广播",中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="广播",CityFM|城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 group-title="广播",CityFM|大苗栗广播
+http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1 group-title="广播",CityFM|台北健康
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1 group-title="广播",CityFM|台南之音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 group-title="广播",CNR 哈语广播
+http://live.xmcdn.com/live/1396/64.m3u8
+#EXTINF:-1 group-title="广播",CRI 环球信息广播 FM90.5
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 group-title="广播",CRI 南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 group-title="广播",CRI 中文环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="广播",CRI Hit FM FM88.7
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 group-title="广播",CRI NEWS Plus AM846
+http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
