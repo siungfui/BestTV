@@ -17,6 +17,11 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000
 #EXTINF:-1 group-title="央视",CCTV17农业农村
 http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
+#EXTINF:-1 group-title="CCTV",CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="咪咕源",CCTV1综合HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="咪咕源",CCTV2财经HD
