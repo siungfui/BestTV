@@ -2,20 +2,12 @@
 
 #EXTINF:-1 group-title="央视",CCTV1綜合
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1綜合
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV10科教
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV10科教
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新聞
 https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="央视",CCTV13新聞
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="央视",CCTV17农业农村
-http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -42,28 +34,14 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="News",BBC World News
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/184402
-#EXTINF:-1 group-title="News",BBC NEWS
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53840
-#EXTINF:-1 group-title="News",BloombergTV
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="News",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="News",CNN
-http://194.40.240.183:25461/rwilkiet3/ZtF4SW8m2KuV/53416
 #EXTINF:-1 group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 group-title="News",France24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="News",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="News",NHKWorld 华语世界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="News",SkyNews
-http://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
