@@ -29,10 +29,6 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV14
-https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV15
-https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
