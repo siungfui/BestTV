@@ -13,8 +13,6 @@ https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4
-https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV9
