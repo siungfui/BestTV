@@ -78,36 +78,3 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Malaysia",DMAX
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/158351
-#EXTINF:-1 group-title="Malaysia",HGTV
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157553
-#EXTINF:-1 group-title="Malaysia",Food Network
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/196454
-#EXTINF:-1 group-title="Malaysia",Astro Awani
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157478
-#EXTINF:-1 group-title="Malaysia",Astro SuperSport 2
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157556
-#EXTINF:-1 group-title="Malaysia",Astro SuperSport 3
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157557
-#EXTINF:-1 group-title="Malaysia",Astro SuperSport 4
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157558
-#EXTINF:-1 group-title="Malaysia",Astro SuperSport 5
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/287792
-#EXTINF:-1 group-title="Malaysia",AXN
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157542
-#EXTINF:-1 group-title="Malaysia",BBC Earth
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/171979
-#EXTINF:-1 group-title="Malaysia",BBC Lifestyle
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/171976
-#EXTINF:-1 group-title="Malaysia",Bloomberg TV
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157533
-#EXTINF:-1 group-title="Malaysia",CNBC Asia
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157529
-#EXTINF:-1 group-title="Malaysia",Discovery Science
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157530
-#EXTINF:-1 group-title="Malaysia",Discovery World
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/157528
-#EXTINF:-1 group-title="Malaysia",NAT GEO Wild
-http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/174724
