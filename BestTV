@@ -45,19 +45,30 @@ http://39.136.172.106/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/100
 #EXTINF:-1 group-title="Migu",CGTN纪录
 http://39.136.172.106/hlsztemgsplive.miguvideo.com/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?ProgramID=&encrypt=
 
-緯來日本,rtmp://119.81.124.89:1935/sat/tv771
-緯來育樂,rtmp://119.81.124.89:1935/sat/tv701
-緯來體育,rtmp://119.81.124.89:1935/sat/tv721
-民視,rtmp://119.81.124.89:1935/sat/tv051
-台視,rtmp://119.81.124.89:1935/sat/tv071
-中視,rtmp://119.81.124.89:1935/sat/tv091
-華視,rtmp://119.81.124.89:1935/sat/tv111
-TVBS歡樂台,rtmp://119.81.124.89:1935/sat/tv421
-TVBS新聞台,rtmp://119.81.124.89:1935/sat/tv551
-東森財經新聞,rtmp://119.81.124.89:1935/sat/tv571
-ELEVEN1,rtmp://119.81.124.89:1935/sat/tv731
-ELEVEN2,rtmp://119.81.124.89:1935/sat/tv741
-MoMo綜合台,rtmp://119.81.124.89:1935/sat/tv761
+#EXTINF:-1 group-title="TW",緯來日本
+rtmp://119.81.124.89:1935/sat/tv771
+#EXTINF:-1 group-title="TW",緯來育樂
+rtmp://119.81.124.89:1935/sat/tv701
+#EXTINF:-1 group-title="TW",緯來體育
+rtmp://119.81.124.89:1935/sat/tv721
+#EXTINF:-1 group-title="TW",民視
+rtmp://119.81.124.89:1935/sat/tv051
+#EXTINF:-1 group-title="TW",台視
+rtmp://119.81.124.89:1935/sat/tv071
+#EXTINF:-1 group-title="TW",中視
+rtmp://119.81.124.89:1935/sat/tv091
+#EXTINF:-1 group-title="TW",華視
+rtmp://119.81.124.89:1935/sat/tv111
+#EXTINF:-1 group-title="TW",TVBS歡樂台
+rtmp://119.81.124.89:1935/sat/tv421
+#EXTINF:-1 group-title="TW",TVBS新聞台
+rtmp://119.81.124.89:1935/sat/tv551
+#EXTINF:-1 group-title="TW",東森財經新聞
+rtmp://119.81.124.89:1935/sat/tv571
+#EXTINF:-1 group-title="TW",ELEVEN1
+rtmp://119.81.124.89:1935/sat/tv731
+#EXTINF:-1 group-title="TW",ELEVEN2
+rtmp://119.81.124.89:1935/sat/tv741
 #EXTINF:-1 group-title="TW",MoMo綜合台
 rtmp://119.81.124.89:1935/sat/tv761
 
