@@ -19,6 +19,8 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV10科教
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12
+https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV13新闻
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV17农村农业
