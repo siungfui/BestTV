@@ -53,9 +53,11 @@ rtmp://119.81.124.89:1935/sat/tv741
 rtmp://119.81.124.89:1935/sat/tv761
 
 #EXTINF:-1 group-title="News",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 group-title="News",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+#EXTINF:-1 group-title="News",凤凰香港
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 group-title="News",AL Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="News",ArirangTV
