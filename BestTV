@@ -25,43 +25,6 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV17农村农业
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV3
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5+
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV6
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV7
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV8
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV9
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV10
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV11
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV12
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV13
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV15
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV16
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV17
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-
 #EXTINF:-1 group-title="TW",緯來日本
 rtmp://119.81.124.89:1935/sat/tv771
 #EXTINF:-1 group-title="TW",緯來育樂
