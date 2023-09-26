@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="央视",CCTV1綜合
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mud.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
