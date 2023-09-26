@@ -8,14 +8,8 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV6电影
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV9纪录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV10科教
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新聞
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新聞
