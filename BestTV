@@ -19,6 +19,47 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV17农村农业
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
+#EXTINF:-1 group-title="CCTV",CCTV-1 综合
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv1
+#EXTINF:-1 group-title="CCTV",CCTV-2 财经
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv2
+#EXTINF:-1 group-title="CCTV",CCTV-3 综艺
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv3
+#EXTINF:-1 group-title="CCTV",CCTV-4 中文国际
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv4
+#EXTINF:-1 group-title="CCTV",CCTV-5 体育
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv5
+#EXTINF:-1 group-title="CCTV",CCTV-5+ 体育赛事
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv5p
+#EXTINF:-1 group-title="CCTV",CCTV-6 电影
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv6
+#EXTINF:-1 group-title="CCTV",CCTV-7 国防军事
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv7
+#EXTINF:-1 group-title="CCTV",CCTV-8 电视剧
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv8
+#EXTINF:-1 group-title="CCTV",CCTV-9 纪录
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv9
+#EXTINF:-1 group-title="CCTV",CCTV-10 科教
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv10
+#EXTINF:-1 group-title="CCTV",CCTV-11 戏曲
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv11
+#EXTINF:-1 group-title="CCTV",CCTV-12 社会与法
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv12
+#EXTINF:-1 group-title="CCTV",CCTV-13 新闻
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv13
+#EXTINF:-1 group-title="CCTV",CCTV-14 少儿
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv14
+#EXTINF:-1 group-title="CCTV",CCTV-15 音乐
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv15
+#EXTINF:-1 group-title="CCTV",CCTV-16 奥林匹克
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv16
+#EXTINF:-1 group-title="CCTV",CCTV-17 农业农村
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv17
+#EXTINF:-1 group-title="CCTV",CCTV-4K 超高清
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv4k
+#EXTINF:-1 group-title="CCTV",CCTV-16 4K
+https://www.szqcom.repl.co/PLTV/tivihk.php?url=https://cntv.sbs/tv?auth=230918&id=cctv164k
+
 #EXTINF:-1 group-title="News",AL Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="News",ArirangTV
